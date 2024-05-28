@@ -1,0 +1,35 @@
+* {
+    background-color: rgb(31, 29, 29);
+    color: white;
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+ul, ol {
+    list-style-position: inside;
+    text-align: center;
+}
+
+img {
+    width: 300px;
+    height: auto;
+}
+
+h2, h3 {
+    text-decoration: underline;
+    color: lightsalmon;
+}
+
+h3 {
+    background-color: rgb(7, 14, 14);
+    font-style: italic;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+p {
+    font-size: 22px;
+}
+
+p.lasagna {
+    font-size: 29px;
+}
