@@ -1,35 +1,23 @@
-* {
-    background-color: rgb(31, 29, 29);
+head {
+    box-sizing: border-box;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif
+}
+
+.recipe-title {
+    padding: 8px 8px 8px 400px;
+    color: rgb(11, 163, 148);
+}
+
+.list {
+    padding: 32px;
+    background-color: rgb(11, 163, 148);
+    text-align: center;
+    margin: 0;
+}
+
+.items {
+    padding: 20px;
+    font-size: 20px;
+    font-weight: bold;
     color: white;
-    text-align: center;
-    font-family: 'Times New Roman', Times, serif;
-}
-
-ul, ol {
-    list-style-position: inside;
-    text-align: center;
-}
-
-img {
-    width: 300px;
-    height: auto;
-}
-
-h2, h3 {
-    text-decoration: underline;
-    color: lightsalmon;
-}
-
-h3 {
-    background-color: rgb(7, 14, 14);
-    font-style: italic;
-    font-family: 'Courier New', Courier, monospace;
-}
-
-p {
-    font-size: 22px;
-}
-
-p.lasagna {
-    font-size: 29px;
 }
